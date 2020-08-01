@@ -1,3 +1,56 @@
+* {
+  background-color: lightblue;
+  font-family: 'Aclonica';
+}
+
 .App {
   text-align: center;
 }
+
+.App h1 {
+  text-shadow: 2px 2px red;
+}
+
+.App h2 {
+  text-shadow: 2px 2px red;
+}
+
+.smurfs {
+  width: 200px;
+  border: 2px solid black;
+  margin-top: 20px;
+  margin-left: 45%;
+  margin-bottom: 20px;
+  border-radius: 200px;
+  box-shadow: 10px 10px red;
+  text-shadow: 2px 2px red;
+}
+
+.smurfs h2 {
+  width: 50%;
+  margin-left: 27%;
+}
+
+.smurfs h3 {
+  width: 50%;
+  margin-left: 27%;
+}
+
+.smurf input {
+  margin-right: 10px;
+  background-color: white;
+}
+
+.smurf label {
+  color: black;
+  margin-right: 5px;
+  font-weight: bold;
+  text-shadow: 1px 1px red;
+}
+
+.smurf button {
+  font-size: 15px;
+  font-weight: bold;
+  text-shadow: 1px 1px red;
+}
+
