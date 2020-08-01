@@ -20,7 +20,7 @@ const SmurfForm = (props) => {
 
 
     return (
-        <div className='form'>
+        <div className='smurf'>
             <form>
                 <label htmlFor='name'>Name</label>
                 <input

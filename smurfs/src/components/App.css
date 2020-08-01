@@ -36,19 +36,19 @@
   margin-left: 27%;
 }
 
-.form input {
+.smurf input {
   margin-right: 10px;
   background-color: white;
 }
 
-.form label {
+.smurf label {
   color: black;
   margin-right: 5px;
   font-weight: bold;
   text-shadow: 1px 1px red;
 }
 
-.form button {
+.smurf button {
   font-size: 15px;
   font-weight: bold;
   text-shadow: 1px 1px red;
